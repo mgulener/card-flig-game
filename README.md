@@ -8,7 +8,7 @@ Download files and run below codes;
 
 Please don't use browser inspect :)
 
-Enjoy!
+Find same letters and enjoy!
 
 Screenshots
 
